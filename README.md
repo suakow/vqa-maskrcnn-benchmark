@@ -1,6 +1,6 @@
 # Faster R-CNN and Mask R-CNN in PyTorch 1.0
 
-This repository is cloned from https://gitlab.com/meetshah1995/vqa-maskrcnn-benchmark.
+This repository is cloned from https://gitlab.com/meetshah1995/vqa-maskrcnn-benchmark and bug fixed (at 23/04/2021)
 
 This project aims at providing the necessary building blocks for easily
 creating detection and segmentation models using PyTorch 1.0.
